@@ -1,0 +1,29 @@
+{
+  "name": "honkit-sample",
+  "version": "1.0.0",
+  "description": "honkit-sample",
+  "main": "book.js",
+  "dependencies": {
+    "gitbook-plugin-flexible-alerts": "^1.0.3",
+    "gitbook-plugin-folding-content": "^1.0.0",
+    "gitbook-plugin-intopic-toc": "^1.1.1",
+    "gitbook-plugin-toggle-chapters": "0.0.3",
+    "gitbook-plugin-uml": "^1.0.3",
+    "honkit": "^3.6.8",
+    "honkit-plugin-elasticsearch": "^0.2.0"
+  },
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoetrope/honkit-sample.git"
+  },
+  "keywords": [],
+  "author": "zoetrope",
+  "bugs": {
+    "url": "https://github.com/zoetrope/honkit-sample/issues"
+  },
+  "homepage": "https://github.com/zoetrope/honkit-sample"
+}
