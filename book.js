@@ -13,7 +13,6 @@ module.exports = {
     "elasticsearch": {
       "host": "",
       "index": "",
-      "apiKey": "==",
       "maxResults": 50,
     },
     "flexible-alerts": {

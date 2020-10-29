@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "kuromoji"
+      },
+      "keywords": {
+        "type": "text",
+        "analyzer": "kuromoji"
+      },
+      "body": {
+        "type": "text",
+        "analyzer": "kuromoji"
+      }
+    }
+  }
+}
