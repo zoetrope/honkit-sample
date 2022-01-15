@@ -306,3 +306,7 @@ https://google.com
 {% fold summary="詳細はこちら", open=true %}
     詳細です
 {% endfold%}
+
+## ダウンロードのテスト
+
+[ZIPファイル](./sample.zip)
