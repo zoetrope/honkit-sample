@@ -309,4 +309,4 @@ https://google.com
 
 ## ダウンロードのテスト
 
-[ZIPファイル](data://sample.zip)
+[ZIPファイル](http://localhost:9090/sample.zip)
