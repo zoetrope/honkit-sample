@@ -4,12 +4,12 @@
   "description": "honkit-sample",
   "main": "book.js",
   "dependencies": {
-    "gitbook-plugin-flexible-alerts": "^1.0.3",
+    "gitbook-plugin-flexible-alerts": "^1.0.4",
     "gitbook-plugin-folding-content": "^1.0.0",
     "gitbook-plugin-intopic-toc": "^1.1.1",
     "gitbook-plugin-toggle-chapters": "0.0.3",
-    "gitbook-plugin-uml": "^1.2.12",
-    "honkit": "^3.6.23",
+    "gitbook-plugin-uml": "^1.2.21",
+    "honkit": "^4.0.4",
     "honkit-plugin-elasticsearch": "^0.4.1"
   },
   "scripts": {
