@@ -3,10 +3,11 @@ module.exports = {
   "plugins": [
     "-lunr",
     "elasticsearch",
-    "intopic-toc",
-    "toggle-chapters",
-    "folding-content",
     "flexible-alerts",
+    "folding-content",
+    "intopic-toc",
+    "mermaid-newface",
+    "toggle-chapters",
     "uml"
   ],
   "pluginsConfig": {
