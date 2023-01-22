@@ -255,7 +255,27 @@ database "MySql" {
 
 他のサンプルは[仕様](http://plantuml.com/sitemap-language-specification)をみてください。
 
-#### MagicLink
+### Mermaid
+
+```markdown
+sequenceDiagram
+    autonumber
+    Alice->>+John: こんにちはジョン、ごきげんいかが？
+    Alice->>+John: ジョン、聞こえますか？
+    John-->>-Alice: やあアリス、聞こえるよ。
+    John-->>-Alice: 気分は最高だ！
+```
+
+```mermaid
+sequenceDiagram
+    autonumber
+    Alice->>+John: こんにちはジョン、ごきげんいかが？
+    Alice->>+John: ジョン、聞こえますか？
+    John-->>-Alice: やあアリス、聞こえるよ。
+    John-->>-Alice: 気分は最高だ！
+```
+
+### MagicLink
 
 URLっぽい文字列を書いておくと自動的にリンクに置き換えてくれます。
 
@@ -266,7 +286,7 @@ https://google.com
 <https://google.com>
 
 
-#### tilde
+### tilde
 
 ```
 いわゆるひとつの ~~打ち消し線~~ というやつでしょうか。
@@ -275,7 +295,7 @@ https://google.com
 いわゆるひとつの ~~打ち消し線~~ というやつでしょうか。
 
 
-#### folding-content
+### folding-content
 
 内容を折りたたんで表示することができます。
 

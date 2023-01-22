@@ -7,6 +7,7 @@
     "gitbook-plugin-flexible-alerts": "^1.0.4",
     "gitbook-plugin-folding-content": "^1.0.0",
     "gitbook-plugin-intopic-toc": "^1.1.1",
+    "gitbook-plugin-mermaid-newface": "^4.1.0",
     "gitbook-plugin-toggle-chapters": "0.0.3",
     "gitbook-plugin-uml": "^1.2.21",
     "honkit": "^4.0.4",
